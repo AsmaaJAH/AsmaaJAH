@@ -5,7 +5,7 @@
 <h3 align="center">Junior Software Engineer </h3>
 
 
-![dev-working_rounded](https://github.com/user-attachments/assets/82c6ea5d-2e31-4f04-8e28-1b807c4818a0)
+<img align="right" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/101390725/190363489-976eeaa3-5c73-4aed-b1ae-6317d9a7f2e8.gif](https://github.com/user-attachments/assets/82c6ea5d-2e31-4f04-8e28-1b807c4818a0)">
 
 
 
