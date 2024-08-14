@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" height="400" width="1200" src="https://user-images.githubusercontent.com/101390725/190355324-a0e8b36a-6c23-46df-93b2-aa01c7dddd24.gif">
+<img align="center" alt="Coding" height="400" width="1200" src="https://github.com/user-attachments/assets/ea4efe4a-cb20-476c-8a26-3249ededdb0e">
 
 
 <h1 align="center">Hello, I'm Asmaa Gamal Nagy 👋</h1>
@@ -9,17 +9,17 @@
 
 
 
-Motivated and efficient Java developer has an interest in coding. Programming languages like Java, JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
+An Egyptian innovated and self‑motivated fresh-graduate engineer with 3+ years of combined experience in summer internships, freelancing, part‑time jobs, boot camps, technical competitions, and "Alexandria University" projects. I am a reliable team player and a clean coder who achieves the best quality of service while meeting deadlines. My current location/city is Alexandria and I am willing to relocate upon request because I've lived in other cities before, including : Cairo,6th October,...etc.
 
-- 🔭 I’m currently **in placements, actively looking for an opportunity for java backend role**  
+- 🔭 I’m currently **looking for opportunities in (Mobile App) or in (backend) development**
 
-- 🌱 I’m currently exploring **Java Backend Development**
+- ⚡ I am a passionate developer **with experience in mobile apps, backend, and AI/ML projects** 
 
-- 💬 Ask me about **anything, about Java and its frameworks**
+- 🌱 I’m currently exploring **Web Frontend Development**
 
-- 📫 How to reach me **3511.deepak@gmail.com, https://11-deepak-kumar-11.github.io/**
+- 📫 How to reach me **(+20)1124542122**
 
-- ⚡ **I am curious learner** 
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=11-DEEPAK-KUMAR-11&label=Profile%20views&color=0e75b6&style=flat" alt="11-DEEPAK-KUMAR-11" /> </p>
