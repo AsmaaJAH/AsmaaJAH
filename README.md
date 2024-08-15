@@ -27,9 +27,7 @@ A reliable team player and a clean coder who achieves the best quality of servic
 <p align="left">
 <a href="https://linkedin.com/in/asmaa-nagy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmaa-nagy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users//16721190/a-j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/16721190/a-j" height="30" width="40" /></a>
-<a href="mailto:asmaagamal.nagy@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"height="30" width="40"/>
-asmaagamal.nagy@gmail.com </a>
+<a href="mailto:asmaagamal.nagy@gmail.com"> <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
