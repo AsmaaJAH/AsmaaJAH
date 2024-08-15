@@ -10,9 +10,9 @@
 
 
 
-An Egyptian innovated and self‑motivated fresh-graduate engineer with 3+ years of combined experience in summer internships, freelancing, part‑time jobs, boot camps, technical competitions, and "Alexandria University" projects. 
+An Egyptian innovated and self‑motivated fresh-graduate engineer with 3+ years of combined experience in summer internships, freelancing, part‑time jobs, boot camps, technical competitions, and college projects. 
 
-A reliable team player and a clean coder who achieves the best quality of service while meeting deadlines. My current location/city is Alexandria and I am willing to relocate upon request because I've lived in other cities before, including: Cairo,6th October,...etc.
+A reliable team player and a clean coder who achieves the best quality of service while meeting deadlines. My current location/city is Alexandria and I am willing to relocate upon request because I've lived in other locations before, including: Cairo, 6th October,...etc.
 
 - 🔭 I’m currently **looking for opportunities in (Mobile App) or in (backend) development**
 
