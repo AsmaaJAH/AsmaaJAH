@@ -5,7 +5,8 @@
 <h3 align="center">Junior Software Engineer </h3>
 
 
-<img align="right" alt="Coding" width="450" src="https://github.com/user-attachments/assets/66219b94-c484-4663-a3a8-2e6953eabb59">
+<img align="right" alt="Coding" width="420" src="https://github.com/user-attachments/assets/66219b94-c484-4663-a3a8-2e6953eabb59">
+
 
 
 
