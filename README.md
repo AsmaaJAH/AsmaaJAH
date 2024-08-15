@@ -1,11 +1,11 @@
-<img align="center" alt="Coding" height="350" width="1200" src="https://github.com/user-attachments/assets/ea4efe4a-cb20-476c-8a26-3249ededdb0e">
+<img align="center" alt="Coding" style="width:100%; height:350px;" src="https://github.com/user-attachments/assets/ea4efe4a-cb20-476c-8a26-3249ededdb0e">
 
 
 <h1 align="center">Hello, I'm Asmaa Gamal Nagy 👋</h1>
 <h3 align="center">Junior Software Engineer </h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/66219b94-c484-4663-a3a8-2e6953eabb59">
+<img align="right" alt="Coding" style="width:40%;" src="https://github.com/user-attachments/assets/66219b94-c484-4663-a3a8-2e6953eabb59">
 
 
 
