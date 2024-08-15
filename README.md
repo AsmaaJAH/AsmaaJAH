@@ -19,7 +19,7 @@ A reliable team player and a clean coder who achieves the best quality of servic
 
 - 🌱 I’m currently exploring **Web Frontend Development**
 
-- 📄 Feel free to refer to my [Resume.pdf](https://github.com/user-attachments/files/16619803/Asmaa.Nagy.pdf)
+- 📄 Feel free to refer to my [Resume](https://drive.google.com/file/d/1OAfmg_Qk6XJLNB2zdOpnP_3MfrraYnYz/)
 
 - 📞 Phone: **(+20)1124542122**
 
