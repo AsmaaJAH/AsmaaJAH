@@ -14,13 +14,13 @@ An Egyptian innovated and self‑motivated fresh-graduate engineer with 3+ years
 
 A reliable team player and a clean coder who achieves the best quality of service while meeting deadlines. My current location/city is Alexandria and I am willing to relocate upon request because I've lived in other locations before, including: Cairo, 6th October,...etc.
 
-- 🔭 I’m currently **looking for opportunities in (Mobile App) or in (backend) development**
+- 🔭 I’m currently **looking for opportunities in (Mobile App) or in (backend) development**.
 
-- ⚡ I am a passionate developer **with experience in mobile apps, backend, and AI/ML projects** 
+- ⚡ I am a passionate developer **with experience in mobile apps, backend, and AI/ML projects**.
 
-- 🌱 I’m currently exploring **Web Frontend Development**
+- 🌱 I’m currently exploring **Web Frontend Development**.
 
-- 📄 Feel free to refer to my [Resume](https://drive.google.com/file/d/1OAfmg_Qk6XJLNB2zdOpnP_3MfrraYnYz/)
+- 📄 Feel free to refer to my [Resume](https://drive.google.com/file/d/1OAfmg_Qk6XJLNB2zdOpnP_3MfrraYnYz/).
 
 
 
