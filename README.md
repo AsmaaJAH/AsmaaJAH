@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" style="width:100%; height:350px;" src="https://github.com/user-attachments/assets/ea4efe4a-cb20-476c-8a26-3249ededdb0e">
+<img align="center" alt="Coding" style="width:30vw; height:350px;" src="https://github.com/user-attachments/assets/ea4efe4a-cb20-476c-8a26-3249ededdb0e">
 
 
 <h1 align="center">Hello, I'm Asmaa Gamal Nagy 👋</h1>
