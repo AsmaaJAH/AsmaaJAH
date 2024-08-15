@@ -9,7 +9,9 @@
 
 
 
-An Egyptian innovated and self‑motivated fresh-graduate engineer with 3+ years of combined experience in summer internships, freelancing, part‑time jobs, boot camps, technical competitions, and "Alexandria University" projects. I am a reliable team player and a clean coder who achieves the best quality of service while meeting deadlines. My current location/city is Alexandria and I am willing to relocate upon request because I've lived in other cities before, including : Cairo,6th October,...etc.
+An Egyptian innovated and self‑motivated fresh-graduate engineer with 3+ years of combined experience in summer internships, freelancing, part‑time jobs, boot camps, technical competitions, and "Alexandria University" projects. 
+
+A reliable team player and a clean coder who achieves the best quality of service while meeting deadlines. My current location/city is Alexandria and I am willing to relocate upon request because I've lived in other cities before, including : Cairo,6th October,...etc.
 
 - 🔭 I’m currently **looking for opportunities in (Mobile App) or in (backend) development**
 
@@ -20,12 +22,8 @@ An Egyptian innovated and self‑motivated fresh-graduate engineer with 3+ years
 - 📫 How to reach me **(+20)1124542122**
 
 
+- 📄 Feel free to refer to my [Resume.pdf](https://github.com/user-attachments/files/16619803/Asmaa.Nagy.pdf)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asmaajah&label=Profile%20views&color=0e75b6&style=flat" alt="asmaajah" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmaajah" alt="asmaajah" /></a> </p>
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OAfmg_Qk6XJLNB2zdOpnP_3MfrraYnYz/view?usp=sharing](https://drive.google.com/file/d/1OAfmg_Qk6XJLNB2zdOpnP_3MfrraYnYz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
