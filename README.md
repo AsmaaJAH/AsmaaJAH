@@ -62,7 +62,9 @@ A reliable team player and a clean coder who achieves the best quality of servic
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/0c1c10d0-b387-429d-a001-d0b3a2da93cc" alt="VS code" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/81e13d61-55ba-4364-997e-a98c331d1456" alt="VS code" width="40" height="40"/></a>
+<a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/b4821131-182f-44b2-94e5-9da5012ae6d4" alt="Eclipse" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/08310b0d-27b9-44ce-95c8-f48b96b0422c" alt="PyCharm" width="40" height="40"/></a>
 </p>
 
 
