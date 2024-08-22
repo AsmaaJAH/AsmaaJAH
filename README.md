@@ -54,6 +54,9 @@ A reliable team player and a clean coder who achieves the best quality of servic
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/dec81873-eca7-450e-833e-095d37b78427" alt="React.js" width="40" height="40"/></a>
  <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/#heading-how-to-get-started-with-bash-scripting" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/970e724c-2161-4379-a3c9-34b5a9b9681a" alt="bash" width="40" height="40"/></a>
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/81e13d61-55ba-4364-997e-a98c331d1456" alt="VS code" width="40" height="40"/></a>
+<a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/b4821131-182f-44b2-94e5-9da5012ae6d4" alt="Eclipse" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/08310b0d-27b9-44ce-95c8-f48b96b0422c" alt="PyCharm" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/0d7c508a-6ad1-48da-97e9-bacbbe0ae4df" alt="photoshop" width="40" height="40"/></a> 
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></a>
@@ -63,11 +66,7 @@ A reliable team player and a clean coder who achieves the best quality of servic
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/81e13d61-55ba-4364-997e-a98c331d1456" alt="VS code" width="40" height="40"/></a>
-<a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/b4821131-182f-44b2-94e5-9da5012ae6d4" alt="Eclipse" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/08310b0d-27b9-44ce-95c8-f48b96b0422c" alt="PyCharm" width="40" height="40"/></a>
 </p>
-
 
 
 ![dev-working_rounded](https://github.com/user-attachments/assets/e3ff5d60-5a1a-43f7-9907-e33a5af1675f)
