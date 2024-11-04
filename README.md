@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello, I'm Asmaa Gamal Nagy 👋</h1>
-<h3 align="center">Junior Software Engineer </h3>
+<h3 align="center"> Software Engineer </h3>
 
 
 <img align="right" alt="Coding" width="430" src="https://github.com/user-attachments/assets/66219b94-c484-4663-a3a8-2e6953eabb59">
@@ -16,7 +16,7 @@ A reliable team player and a clean coder who achieves the best quality of servic
 
 - 🔭 I’m currently **looking for opportunities in (Mobile App) or in (Frontend) development**.
 
-- ⚡ I am a passionate developer **with experience in mobile apps, backend, and AI/ML projects**.
+- ⚡ I am a passionate developer **with experience in frontend mobile apps, backend academic projects, and AI/ML projects**.
 
 - 🌱 I’m currently exploring **Web Frontend Development**.
 
