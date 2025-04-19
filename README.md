@@ -10,15 +10,15 @@
 
 
 
-An Egyptian innovated and self‑motivated engineer with 3+ years of combined experience in professional corporations, summer internships, freelancing, part‑time jobs, boot camps, technical competitions, and college projects (as I graduated in class 2024). 
+An Egyptian innovated and self‑motivated engineer with years of combined experience in professional corporations, summer internships, freelancing, part‑time jobs, boot camps, technical competitions, and college projects (as I graduated in class 2024). 
 
 A reliable team player and a clean coder who achieves the best quality of service while meeting deadlines. My current location/city is Alexandria and I am willing to relocate upon request because I've lived in other locations before, including: Cairo, 6th October,...etc.
 
-- 🔭 I’m currently **looking for opportunities in (Mobile App) or in (Frontend) development**.
+- 🔭 I’m currently **looking for opportunities in Mobile App development or in QA/QC Software testing.**.
 
-- ⚡ I am a passionate developer **with experience in frontend mobile apps, backend academic projects, and AI/ML projects**.
+- ⚡ I am a passionate Engineer **with experience in frontend mobile apps, backend academic projects, manual SW testing, and AI/ML projects**.
 
-- 🌱 I’m currently exploring **Web Frontend Development**.
+- 🌱 I’m currently exploring **Java development core concepts and best practices**.
 
 - 📄 Feel free to refer to my [Resume](https://drive.google.com/file/d/1OAfmg_Qk6XJLNB2zdOpnP_3MfrraYnYz/).
 
