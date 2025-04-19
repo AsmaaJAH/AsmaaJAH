@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="430"  style="margin-left: 60px;"  src="https://github.com/user-attachments/assets/66219b94-c484-4663-a3a8-2e6953eabb59">
 
 
-
+<div>
 An Egyptian innovated and self‑motivated engineer with years of combined experience in professional corporations, summer internships, freelancing, part‑time jobs, boot camps, technical competitions, and college projects (as I graduated in class 2024). 
 
 A reliable team player and a clean coder who achieves the best quality of service while meeting deadlines. My current location/city is Alexandria and I am willing to relocate upon request because I've lived in other locations before, including: Cairo, 6th October,...etc.
@@ -20,6 +20,8 @@ A reliable team player and a clean coder who achieves the best quality of servic
 - 🌱 I’m currently exploring **Java development core concepts and best practices**.
 
 - 📄 Feel free to refer to my [Resume](https://drive.google.com/file/d/1OAfmg_Qk6XJLNB2zdOpnP_3MfrraYnYz/).
+</div>
+
 
 
 
