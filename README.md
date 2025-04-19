@@ -16,7 +16,7 @@ A reliable team player and a clean coder who achieves the best quality of servic
 
 - 🔭 I’m currently **looking for opportunities in Mobile App development or in QA/QC Software testing.**.
 
-- ⚡ I am a passionate Engineer **with experience in frontend mobile apps, backend academic projects, manual SW testing, and AI/ML projects**.
+- ⚡ I am a passionate Engineer **with experience in mobile apps, web frontend, backend academic projects, manual SW testing, and AI/ML projects**.
 
 - 🌱 I’m currently exploring **Java development core concepts and best practices**.
 
