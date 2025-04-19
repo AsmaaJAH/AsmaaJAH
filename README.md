@@ -5,7 +5,7 @@
 <h3 align="center"> Software Engineer </h3>
 
 
-<img align="right" alt="Coding" width="430" style="padding-left: 20px;" src="https://github.com/user-attachments/assets/66219b94-c484-4663-a3a8-2e6953eabb59">
+<img align="right" alt="Coding" width="430" style="margin-left:: 20px;" src="https://github.com/user-attachments/assets/66219b94-c484-4663-a3a8-2e6953eabb59">
 
 
 
